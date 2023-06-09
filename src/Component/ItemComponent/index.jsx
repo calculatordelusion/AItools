@@ -63,7 +63,7 @@ const ItemComponent = ({ linkedin, title, facebook, instagram, duration, descrip
           {verified ? (
             < div className='verified'>
               <img className='check' src={check} alt="" />
-              Highly recommended AI Tool from Dash AI Team
+              Highly recommended AI Tool from CandyZon AI Team
             </div>
           ) : <></>
 
